@@ -9,7 +9,7 @@
 5. Create a trigger S3 bucket with EVENT_TYPE = Object Create and suffix .json[so when ever a json file will be uploaded to this bucket trigger will be executed].
 
 Execution -
-Uplaod the products.json file to s3 bucket, check for the cloudWatch logs and verify if the data was inserted to DynamoDB table.
+Upload the products1.json file to s3 bucket, check for the cloudWatch logs and verify if the data was inserted to DynamoDB table.
 
 
 
